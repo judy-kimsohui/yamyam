@@ -1,0 +1,6 @@
+[submodule "yamyam-spring"]
+	path = yamyam-spring
+	url = https://github.com/judy-kimsohui/yamyam-spring.git
+[submodule "yamyam-vue"]
+	path = yamyam-vue
+	url = https://github.com/judy-kimsohui/yamyam-vue.git

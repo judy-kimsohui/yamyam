@@ -1,0 +1,5 @@
+.DS_Store
+.claude/
+yamyam-key.pem
+yamyam-secret.pem
+yamyam_accessKeys.csv
