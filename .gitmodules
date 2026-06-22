@@ -4,3 +4,6 @@
 [submodule "yamyam-vue"]
 	path = yamyam-vue
 	url = https://github.com/judy-kimsohui/yamyam-vue.git
+[submodule "yamyam-data"]
+	path = yamyam-data
+	url = https://github.com/judy-kimsohui/yamyam-data.git
