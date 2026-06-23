@@ -1,9 +1,12 @@
 [submodule "yamyam-spring"]
 	path = yamyam-spring
 	url = https://github.com/judy-kimsohui/yamyam-spring.git
+	branch = publish
 [submodule "yamyam-vue"]
 	path = yamyam-vue
 	url = https://github.com/judy-kimsohui/yamyam-vue.git
+	branch = publish
 [submodule "yamyam-data"]
 	path = yamyam-data
 	url = https://github.com/judy-kimsohui/yamyam-data.git
+	branch = main
