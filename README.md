@@ -15,6 +15,25 @@
 하루 식사를 마치면 AI가 개인 정보(나이·체중·목표 체중)를 바탕으로 **맞춤형 데일리 식단 피드백**을 생성합니다.
 
 프론트엔드는 **Vue.js 3 SPA** 구조로, 백엔드는 **Spring Boot 3 + MyBatis MVC** 아키텍처로 구현되었습니다.
+<img width="1566" height="987" alt="image" src="https://github.com/user-attachments/assets/1f121963-498c-433f-b0e6-948de9ad0f00" />
+
+<img width="1565" height="987" alt="image" src="https://github.com/user-attachments/assets/f059cb4f-4b2e-420b-88fe-f6256f8c5ba7" />
+
+<img width="1564" height="989" alt="image" src="https://github.com/user-attachments/assets/fc2661a3-e346-45f1-9ece-9e6929b67f7e" />
+
+<img width="1563" height="987" alt="image" src="https://github.com/user-attachments/assets/fe3e72b7-3d1b-49e6-8eda-95825fae9971" />
+
+
+<img width="1565" height="989" alt="image" src="https://github.com/user-attachments/assets/207fcf27-30ed-44d0-acd2-4202b1a2200e" />
+
+
+<img width="1563" height="987" alt="image" src="https://github.com/user-attachments/assets/dd7cbb7d-8a65-466a-b585-df0aec87a4be" />
+<img width="1558" height="985" alt="image" src="https://github.com/user-attachments/assets/174d47b4-4f3c-4d4c-90d5-10d1c93c2e61" />
+<img width="1563" height="987" alt="image" src="https://github.com/user-attachments/assets/7140660e-aa32-42e7-a92a-fdb7bf2e66db" />
+<img width="496" height="986" alt="image" src="https://github.com/user-attachments/assets/79faeaff-be8a-4b4d-bb68-5c74910fe20e" />
+
+<img width="500" height="985" alt="image" src="https://github.com/user-attachments/assets/e8a891d2-6130-4605-ae7b-c583797bbad9" />
+
 
 ---
 
