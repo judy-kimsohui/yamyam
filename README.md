@@ -118,7 +118,7 @@ YamYamLog는 먹는 순간을 가볍게 기록하고, 기록을 습관과 성취
 
 개발(DEV) 환경과 운영(PROD) 환경의 구성도입니다.
 
-<img width="1466" height="753" alt="image" src="https://github.com/user-attachments/assets/7c5292ef-16c4-4e49-88b0-ae8aa715de0d" />
+<img width="1468" height="751" alt="image" src="https://github.com/user-attachments/assets/8e9ffe83-a546-43c0-9c57-a5899b94001b" />
 
 
 ### AI 영상 분석 파이프라인
