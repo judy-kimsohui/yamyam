@@ -1,7 +1,8 @@
 # YamYamLog - 영상 기반 AI 식단 관리 서비스
 
 
-### 🎏 배포 URL [https://yamyamlog.site](https://yamyamlog.site)
+### 🎏 배포 URL  [https://yamyamlog.site](https://yamyamlog.site) 
+    (^^ゞ Sign in to Mock
 <img width="1468" height="824" alt="image" src="https://github.com/user-attachments/assets/c67a9c66-43b6-464f-ac70-a9d7f9434ece" />
 
 
