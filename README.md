@@ -23,15 +23,15 @@ YamYamLog는 먹는 순간을 가볍게 기록하고, 기록을 습관과 성취
 
 ## 02. 화면 미리보기
 
-| 회원가입 / 로그인 | 메인 대시보드 (오늘의 로그 & 그룹 목록) |
+| 홈화면 | 회원가입 / 로그인 |
 |:---:|:---:|
 | ![타이틀](https://github.com/user-attachments/assets/1f121963-498c-433f-b0e6-948de9ad0f00) | ![회원가입/로그인](https://github.com/user-attachments/assets/f059cb4f-4b2e-420b-88fe-f6256f8c5ba7) |
 
-| 그룹 초대 | 그룹 대시보드 (그룹 로그 & AI 분석) |
+| 메인 대시보드 (오늘의 로그 & 그룹 목록) | 그룹 초대 |
 |:---:|:---:|
 | ![메인 대시보드](https://github.com/user-attachments/assets/fc2661a3-e346-45f1-9ece-9e6929b67f7e) | ![그룹 초대](https://github.com/user-attachments/assets/fe3e72b7-3d1b-49e6-8eda-95825fae9971) |
 
-| AI 인식 음식 & 영양 정보 | AI 인식 정보 수정 / 저장 |
+| 그룹 대시보드 (그룹 로그 & AI 분석) | 마이 로그 & AI 종합 영양 평가 |
 |:---:|:---:|
 | ![그룹 대시보드](https://github.com/user-attachments/assets/207fcf27-30ed-44d0-acd2-4202b1a2200e) | ![AI 영양 정보](https://github.com/user-attachments/assets/dd7cbb7d-8a65-466a-b585-df0aec87a4be) |  
 
@@ -42,7 +42,7 @@ YamYamLog는 먹는 순간을 가볍게 기록하고, 기록을 습관과 성취
 
 
 
-| 모바일 뷰 & 채팅 (2) | 모바일 뷰 & 채팅 (3) |
+| 모바일 뷰 (그룹 대시보드) | 모바일 뷰 (채팅) |
 |:---:|:---:|
 | ![모바일2](https://github.com/user-attachments/assets/79faeaff-be8a-4b4d-bb68-5c74910fe20e) | ![모바일3](https://github.com/user-attachments/assets/e8a891d2-6130-4605-ae7b-c583797bbad9) |
 
@@ -273,15 +273,10 @@ cd yamyam-spring && ./mvnw package
 
 ## 팀원
 
-김소희
-- 담당 영역
-    - 풀스택 (영상 업로드 · 데이터 처리 · 비동기 파이프라인)
-- 회고
-    - 영상 처리 성능 저하와 서버 부하 문제를 비동기 구조 개선으로 해결하며 안정적인 서비스 운영 역량을 키웠습니다. 다음 프로젝트에서는 초기 설계 단계부터 팀 간 API 명세와 인터페이스 정의를 강화하고 싶습니다.
-
-정광석
-- 담당 영역
-    - 풀스택 (AI 연동 · 화면 상태 동기화 · UI 최적화)
-- 회고
-    - GPT-4o 기반 영양 분석 자동화로 사용자 편의를 극대화하고, 트랜잭션 동기화를 통한 비동기 처리로 백엔드 시스템 안정성까지 경험할 수 있던 프로젝트였습니다.
-
+| <img src="https://github.com/judy-kimsohui.png" width="100" height="100" style="border-radius:50%"/> | <img src="https://github.com/gwamul.png" width="100" height="100" style="border-radius:50%"/> |
+|:---:|:---:|
+| **김소희** | **정광석** |
+| [@judy-kimsohui](https://github.com/judy-kimsohui) | [@gwamul](https://github.com/gwamul) |
+| 풀스택 | 풀스택 |
+| 영상 업로드 · 데이터 처리 · 비동기 파이프라인 | AI 연동 · 화면 상태 동기화 · UI 최적화 |
+| 영상 처리 성능 저하와 서버 부하 문제를 비동기 구조 개선으로 해결하며 안정적인 서비스 운영 역량을 키웠습니다. 다음 프로젝트에서는 초기 설계 단계부터 팀 간 API 명세와 인터페이스 정의를 강화하고 싶습니다. | GPT-4o 기반 영양 분석 자동화로 사용자 편의를 극대화하고, 트랜잭션 동기화를 통한 비동기 처리로 백엔드 시스템 안정성까지 경험할 수 있던 프로젝트였습니다. |
